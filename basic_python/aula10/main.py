@@ -1,0 +1,1 @@
+# Desafio: colete dados vindos do usuário como nome, idade e peso e exiba-os usando f-strings

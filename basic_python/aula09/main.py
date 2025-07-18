@@ -1,0 +1,1 @@
+# Desafio: crie variáveis e as exiba usando os 3 métodos citados nessa aula, f-strings, .format e interpolação.

@@ -1,0 +1,1 @@
+# Desafio: crie três variáveis booleanas e condicionais para mostrar algo com elas, você entenderá melhor o fluxo com esse exercício
